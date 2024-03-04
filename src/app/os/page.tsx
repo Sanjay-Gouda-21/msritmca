@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function Cm() {
+export default function Os() {
   return (
     <div>
       {/* <div className="grid grid-cols-1 items-center bg-grey-400 p-5 w-fit rounded-md mx-auto text-bold text-lg">
@@ -16,40 +16,27 @@ export default function Cm() {
         <span className="h-px flex-1 bg-black"></span>
       </span>
       <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 lg:gap-8 m-5">
-        <div className="h-40 rounded-lg bg-gray-200 flex flex-col justify-center items-center">
+        {/* <div className="h-40 rounded-lg bg-gray-200 flex flex-col justify-center items-center">
           <p className="text-gray-500 transition hover:text-gray-500/75 m-5">
-            Syllabus Copy - Computational Mathematics
+            Syllabus Copy - professional Communication and Ethics
           </p>
 
           <a
             className="block mx-auto w-fit rounded bg-primary px-12 py-3 text-sm font-medium text-white shadow hover:bg-yellow-500  focus:outline-none focus:ring active:bg-red-500 sm:w-auto self-end"
-            href="https://drive.google.com/file/d/1LJbSjnuEOGSkJZ9JG11Qb8HL6H29ot-e/view?usp=sharing"
+            href="https://drive.google.com/file/d/1Qdoz6AJbEhplNbSISQkGGQChMRCIG2UB/view?usp=sharing"
             target="_blank"
           >
             Checkout
           </a>
-        </div>
+        </div> */}
         <div className="h-40 rounded-lg bg-gray-200 flex flex-col justify-center items-center">
           <p className="text-gray-500 transition hover:text-gray-500/75 m-5">
-            Book - RALPH P. GRIMALDI
+            Sumitabha Das: UNIX Concepts
           </p>
 
           <a
             className="block mx-auto w-fit rounded bg-primary px-12 py-3 text-sm font-medium text-white shadow hover:bg-yellow-500  focus:outline-none focus:ring active:bg-red-500 sm:w-auto self-end"
-            href="https://ci2525.files.wordpress.com/2017/04/grimaldi.pdf"
-            target="_blank"
-          >
-            Checkout
-          </a>
-        </div>
-        <div className="h-40 rounded-lg bg-gray-200 flex flex-col justify-center items-center">
-          <p className="text-gray-500 transition hover:text-gray-500/75 m-5">
-            Question Bank
-          </p>
-
-          <a
-            className="block mx-auto w-fit rounded bg-primary px-12 py-3 text-sm font-medium text-white shadow hover:bg-yellow-500  focus:outline-none focus:ring active:bg-red-500 sm:w-auto self-end"
-            href="https://drive.google.com/file/d/12XOasIKCMrZ1Lzi-7XuuPx3sDC-PFrME/view?usp=sharing"
+            href="https://v2vclass.com/images/coursepdf/bsc-cssem1/bsc-cssem1/foss/freeopensourcesoftware.pdf"
             target="_blank"
           >
             Checkout
